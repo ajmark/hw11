@@ -1,0 +1,16 @@
+{
+  "name": "tang",
+  "subdomain": "tang",
+  "scripts": {
+    "start": "app.js"
+  },
+  "version": "0.0.1-2",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "express": "3.0.0",
+    "ejs": "*",
+    "socket.io": "*"
+  }
+}
